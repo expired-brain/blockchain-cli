@@ -1,7 +1,7 @@
 # evias/blockchain-cli 
 
-[![Build Status](https://travis-ci.org/evias/blockchain-cli.svg)](https://travis-ci.org/evias/blockchain-cli)
-[![License](https://poser.pugx.org/evias/blockchain-cli/license.svg)](https://packagist.org/packages/evias/blockchain-cli)
+[![Build Status](https://travis-ci.org/expired-brain/blockchain-cli.svg)](https://travis-ci.org/evias/blockchain-cli)
+[![License](https://poser.pugx.org/expired-brain/blockchain-cli/license.svg)](https://packagist.org/packages/evias/blockchain-cli)
 
 The evias/blockchain-cli Package aims to be an easy to use command line interface and API utility Software built around Bitcoin, Colored Coins and NEM blockchain features.
 
